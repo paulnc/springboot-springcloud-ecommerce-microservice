@@ -3,7 +3,6 @@
 #####  eCommerce Microservices created using Java, Spring Boot, Spring Cloud. Docker, and Kafka. 
 
 - Built with Spring Boot, Spring Cloud, Docker, MongoDB, MySQL and Apache Kafka.
-- 
 
 
 ```
