@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### docker volumes & DB init###
+docker/
+mysql/
